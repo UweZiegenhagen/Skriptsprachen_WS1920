@@ -1,7 +1,7 @@
 5, rue Monnier
 451 Liva Skyway Apt. 329
 Kotrcová 912
-Ehlertplatz 94
+Ehlertplatz 94a
 2614 Anna Port
 plac Jaworowa 003
 al. Przechodnia 610
@@ -36,7 +36,7 @@ ulica Skargi 664
 Unit 9090 Box 0881
 9964 Isabel Viaduct Suite 917
 186 Connie Plaza Suite 018
-Schombergasse 923
+Schombergasse 923b
 plac Wroclawska 41/35
 Dörschnerstraße 8/1
 5331 Hugo Rapids Suite 501
@@ -76,7 +76,7 @@ ulica Mickiewicza 23
 9324 Sophie Plaza
 Alois-Bloch-Gasse 094
 ulica Piekna 871
-Ryanbaan 81
+Ryanbaan 81c
 Žilinská 3/4
 Za Krížem 1/5
 Jenniferboulevard 7
@@ -91,7 +91,7 @@ pl. Mazurska 68
 Klaus-D.-Seifert-Allee 8
 Na Poustkách 5
 Paolo-Schönland-Weg 6/8
-Faysingel 97
+Faysingel 97d
 Onšovecká 9/1
 Unit 6501 Box 7315
 Grafgasse 151
@@ -138,7 +138,7 @@ Bryanstraat 0
 Hostivarské Nám. 42
 Dierk-Mosemann-Gasse 3
 78480 Schmidt Fords Apt. 264
-Bentheboulevard 364
+Bentheboulevard 364a
 Lorenzo-Kühnert-Ring 79
 Johannstr. 779
 Lennboulevard 129

@@ -31,5 +31,3 @@ print("--- %s seconds ---" % (time.time() - start_time))
 # --- Pool(8): approx. 45 seconds on Xeon E3-1230 v2
 # --- Pool(4): approx. 53 seconds on Xeon E3-1230 v2
 # --- Pool(2): approx. 84 seconds on Xeon E3-1230 v2
-
-

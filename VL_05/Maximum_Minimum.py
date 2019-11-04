@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  4 18:40:37 2019
-
-@author: Uwe
-"""
 
 def finde_maximum(eine_liste):
+    """
+        Die einfache Lösung    
+    """
     return max(eine_liste)
 
 print(finde_maximum([3, 7, 15, 42, 2, 1, 4, 6]))

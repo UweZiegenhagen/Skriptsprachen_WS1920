@@ -10,7 +10,7 @@ def find_password(zahl):
         m = hashlib.md5(str(zahl).encode())
         return m.hexdigest()
 
-result = [] 
+result = []
 
 if __name__ == '__main__':
     with Pool(8) as p:

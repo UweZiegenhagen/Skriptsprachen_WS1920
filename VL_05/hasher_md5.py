@@ -16,3 +16,5 @@ find_password(100000000)
 print("--- %s seconds ---" % (time.time() - start_time))
 
 # --- approx. 122 seconds on Xeon E5-2687W
+# --- approx. 138 seconds on i7 4800MQ
+

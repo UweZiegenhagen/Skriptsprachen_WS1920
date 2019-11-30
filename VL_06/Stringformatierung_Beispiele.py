@@ -33,3 +33,4 @@ print('Artikel{p:= d}Euro'.format(p=123))
 hoehe = 35
 breite = 25
 print(f'{hoehe} * {breite} = ', hoehe * breite)
+

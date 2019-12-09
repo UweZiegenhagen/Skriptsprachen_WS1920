@@ -1,14 +1,13 @@
 Schreiben Sie drei Funktionen, die jeweils eine Liste entgegennehmen
 
-•	Funktion 1: Liefert die Elemente in einer Liste von Zahlen zurück, die nicht restlos durch 2 teilbar sind
+• Funktion 1: Liefert die Elemente in einer Liste von Zahlen zurück, die nicht restlos durch 2 teilbar sind
 
 = FILTER
 
-•	Funktion 2: Bildet die Summe aller Zahlen in einer Liste von Zahlen und gibt diese als Wert zurück
+• Funktion 2: Bildet die Summe aller Zahlen in einer Liste von Zahlen und gibt diese als Wert zurück
 
 = REDUCE
 
-
-•	Funktion 3: bekommt eine Liste von Worten übergeben und gibt diese Liste capitalized zurück, d.h. mit jeweils großgeschriebenem ersten Buchstaben
+• Funktion 3: bekommt eine Liste von Worten übergeben und gibt diese Liste capitalized zurück, d.h. mit jeweils großgeschriebenem ersten Buchstaben
 
 = MAP

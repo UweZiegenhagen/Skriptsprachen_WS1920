@@ -4,11 +4,12 @@ import exifread
 import os
 
 for file in os.listdir("."):
-    if file.lower().endswith(".jpg"):
+    if file.lower().endswith("7.jpg"):
         with open("./"+file, 'rb') as f:
             print('Datei', file)
             tags = exifread.process_file(f)
             
             for k, v in tags.items():
-                if k.startswith('EXIF'):
-                    print(' ',k,v)
+                print(k, v)
+                #if k.startswith('EXIF'):
+                #    print(' ',k,v)

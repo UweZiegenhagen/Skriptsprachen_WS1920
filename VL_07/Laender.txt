@@ -1,0 +1,194 @@
+Afghanistan	Kabul	3298000
+Ägypten	Kairo	7947100
+Albanien	Tirana	418500
+Algerien	Algier	2159000
+Andorra	Andorra la Vella	19900
+Angola	Luanda	6377200
+Antigua und Barbuda	St John’s	21600
+Äquatorialguinea	Malabo	299800
+Argentinien	Buenos Aires	5383500
+Armenien	Jerewan	1570800
+Aserbaidschan	Baku	2204200
+Äthiopien	Addis Abeba	3273000
+Australien	Canberra	168500
+Bahamas	Nassau	246300
+Bahrain	Manama	329500
+Bangladesch	Dhaka	6970100
+Barbados	Bridgetown	88500
+Belgien	Brüssel	180400
+Belize	Belmopan	13900
+Benin	Porto Novo	264300
+Bhutan	Thimphu	138700
+Bolivien	Sucre 	261200
+Bosnien und Herzegowina	Sarajevo	438400
+Botswana	Gaborone	231600
+Brasilien	Brasília	2570200
+Brunei	Bandar Seri Begawan	27300
+Bulgarien	Sofia	1256700
+Burkina Faso	Ouagadougou	1181700
+Burundi	Gitega	41944
+Chile	Santiago de Chile	5561300
+Volksrepublik China	Peking	21730000
+Costa Rica	San José	288000
+Dänemark	Kopenhagen	591500
+Deutschland	Berlin	3478600
+Dominica	Roseau	15000
+Dominikanische Republik	Santo Domingo	965000
+Dschibuti	Dschibuti	475300
+Ecuador	Quito	2239200
+Elfenbeinküste 	Yamoussoukro 	355600
+El Salvador	San Salvador	316100
+Eritrea	Asmara	563900
+Estland	Tallinn 	393200
+Fidschi	Suva	94100
+Finnland	Helsinki	629200
+Frankreich	Paris	2206488
+Gabun	Libreville	578200
+Gambia	Banjul	31300
+Georgien	Tiflis	1183000
+Ghana	Accra	4010000
+Grenada	St George’s	33700
+Griechenland	Athen	664000
+Guatemala	Guatemala-Stadt	3354000
+Guinea	Conakry	1667900
+Guinea-Bissau	Bissau	387900
+Guyana	Georgetown	118363
+Haiti	Port-au-Prince	977800
+Honduras	Tegucigalpa	1169700
+Indien	Neu-Delhi	250000
+Indonesien	Jakarta	9512300
+Irak	Bagdad	7180900
+Iran	Teheran	13267600
+Irland	Dublin	527600
+Island	Reykjavík	209500
+Israel	Jerusalem	904100
+Italien	Rom	3997500
+Jamaika	Kingston	89100
+Japan	Tokio	36130700
+Jemen	Sanaa 	1527900
+Jordanien	Amman	4000000
+Kambodscha	Phnom Penh	1501700
+Kamerun	Yaoundé	1881900
+Kanada	Ottawa	1323800
+Kap Verde	Praia	155300
+Kasachstan	Nur-Sultan	760500
+Katar	Doha	796900
+Kenia	Nairobi	3138400
+Kirgisistan	Bischkek	865500
+Kiribati	South Tarawa	56300
+Kolumbien	Bogotá	7878800
+Komoren	Moroni	43600
+Demokratische Republik Kongo	Kinshasa	11575000
+Republik Kongo	Brazzaville	1373400
+Nordkorea 	Pjöngjang	3255300
+Südkorea 	Seoul	9794300
+Kroatien	Zagreb	688163
+Kuba	Havanna	2106100
+Kuwait	Kuwait-Stadt	584000
+Laos	Vientiane	820900
+Lesotho	Maseru	519200
+Lettland	Riga	658600
+Libanon	Beirut	363000
+Liberia	Monrovia	970800
+Libyen	Tripolis	1519000
+Liechtenstein	Vaduz	5400
+Litauen	Vilnius	534700
+Luxemburg	Luxemburg	115200
+Madagaskar	Antananarivo	710200
+Malawi	Lilongwe	1230800
+Malaysia	Kuala Lumpur	1588800
+Malediven	Malé	133400
+Mali	Bamako	907600
+Malta	Valletta	5700
+Marokko	Rabat	577800
+Marshallinseln	Majuro	27800
+Mauretanien	Nouakchott	558200
+Mauritius	Port Louis	118400
+Mexiko	Mexiko-Stadt	8851100
+Mikronesien	Palikir	36200
+Moldau	Chi?inau	469400
+Monaco	Monaco	38400
+Mongolei	Ulaanbaatar	1396300
+Montenegro	Podgorica	187100
+Mosambik	Maputo	1101200
+Myanmar	Naypyidaw	1160200
+Namibia	Windhoek	322500
+Nauru	Yaren 	750
+Nepal	Kathmandu	975000
+Neuseeland	Wellington	471300
+Nicaragua	Managua	1263000
+Niederlande	Amsterdam	799300
+Niger	Niamey	1222100
+Nigeria	Abuja	1406000
+Nordmazedonien	Skopje	322000
+Norwegen	Oslo	612300
+Oman	Maskat	775900
+Österreich	Wien	1840573
+Osttimor	Dili	277300
+Pakistan	Islamabad	2001600
+Palau	Ngerulmud	277
+Panama	Panama-Stadt	880700
+Papua-Neuguinea	Port Moresby	364100
+Paraguay	Asunción	529400
+Peru	Lima	9485400
+Philippinen	Manila	1652200
+Polen	Warschau	1735400
+Portugal	Lissabon	2731500
+Ruanda	Kigali	1132700
+Rumänien	Bukarest	1833400
+Russland	Moskau	11514300
+St Kitts und Nevis	Basseterre	13300
+St Lucia	Castries	3661
+St Vincent und die Grenadinen	Kingstown	12700
+Salomonen	Honiara	64600
+Sambia	Lusaka	1747200
+Samoa	Apia	35500
+San Marino	San Marino	4036
+São Tomé und Príncipe	São Tomé	61100
+Saudi-Arabien	Riad	7715500
+Schweden	Stockholm	923500
+Schweiz	Bern	130100
+Senegal	Dakar	1146000
+Serbien	Belgrad	1344800
+Seychellen	Victoria	26500
+Sierra Leone	Freetown	1056000
+Simbabwe	Harare	969200
+Singapur	Singapur	5076700
+Slowakei	Bratislava	602400
+Slowenien	Ljubljana	287300
+Somalia	Mogadischu	2265000
+Spanien	Madrid	3142000
+Sri Lanka	Sri Jayewardenepura Kotte	107500
+Südafrika	Kapstadt 	3740000
+Sudan	Khartum	372400
+Südsudan	Juba	639600
+Suriname	Paramaribo	223400
+Swasiland	Mbabane	61200
+Syrien	Damaskus	2574000
+Tadschikistan	Duschanbe	724800
+Tansania	Dodoma	411000
+Thailand	Bangkok	8305200
+Togo	Lomé	839600
+Tonga	Nuku?alofa	35200
+Trinidad und Tobago	Port of Spain	37100
+Tschad	N’Djamena	993500
+Tschechien	Prag	1268800
+Tunesien	Tunis	1058600
+Türkei	Ankara	5270600
+Turkmenistan	Asgabat	604700
+Tuvalu	Funafuti	6200
+Uganda	Kampala	1507100
+Ukraine	Kiew	2567000
+Ungarn	Budapest	1729000
+Uruguay	Montevideo	1319100
+Usbekistan	Taschkent	2393200
+Vanuatu	Port Vila	44000
+Vatikanstadt	Vatikanstadt	750
+Venezuela	Caracas	3300300
+Vereinigte Arabische Emirate	Abu Dhabi	1800000
+Vereinigtes Königreich	London	8170000
+Vereinigte Staaten von Amerika	Washington, DC	672200
+Vietnam	Hanoi	6451900
+Weißrussland	Minsk	1921800
+Zentralafrikanische Republik	Bangui	622800
+Zypern	Nikosia	55000

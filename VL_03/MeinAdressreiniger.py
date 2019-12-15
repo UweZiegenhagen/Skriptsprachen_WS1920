@@ -1,8 +1,7 @@
-# Lade die Datei schreibgeschÃ¼tzt als Textdatei
+# Lade die Datei schreibgeschützt als Textdatei
 with open('Datensatz.txt', 'rt', encoding='utf-8') as eingabedatei:
     for zeile in eingabedatei:
         
-        #print(':::', zeile[:-1])
         if zeile[-1] == '\n':
             zeile = zeile[:-1] # Entferne Zeilenumbruch, falls vorhanden
         gesplittet = zeile.split(' ') # Splitte anhand des Leerzeichens

@@ -13,7 +13,7 @@ Materialien für meine VL zur Skriptsprachenprogrammierung an der FOM (WS2019/20
 6. Termin: Unit Testing, Test-Driven Design, Stringformatierung
 7. Termin: Datei-Operationen, Funktionale Programmierung
 8. Termin: Übung zu Dateien und Datenstrukturen, Reguläre Ausdrücke
-9. Termin: Objektorientiertes Python
-10. Termin: (Wiederholung, Fragen und Antworten)
-11. Termin: (Data Science und Machine Learning mit Python, Fragen und Antworten)
+9. Termin: Objektorientiertes Python: Klassen, Attribute, Methoden, abstrakte Klassen
+10. Termin: (Data Science und Machine Learning mit Python, Fragen und Antworten
+11. Termin: (Wiederholung, Fragen und Antworten)
 12. Termin: Klausur

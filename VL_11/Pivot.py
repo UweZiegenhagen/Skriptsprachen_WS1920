@@ -16,4 +16,3 @@ pt = pd.pivot_table(df, values='Umsatz', index='Jahr', aggfunc=np.sum)
 print(pt)
 
 pt = pd.pivot_table(df, values='Umsatz', index='Bereichsleiter', aggfunc=np.sum)
-print(pt)

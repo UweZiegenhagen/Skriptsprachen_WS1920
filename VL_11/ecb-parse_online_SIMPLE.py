@@ -5,7 +5,7 @@ https://stackoverflow.com/questions/17250660/how-to-parse-xml-file-from-european
 https://medium.com/@moreless/how-to-fix-python-ssl-certificate-verify-failed-97772d9dd14c    
 """
 
-# Certifcate-related stuff
+## Certifcate-related stuff
 import os, ssl
 if (not os.environ.get('PYTHONHTTPSVERIFY', '') and getattr(ssl, '_create_unverified_context', None)):
     ssl._create_default_https_context = ssl._create_unverified_context

@@ -1,6 +1,7 @@
 import pandas as pd
 
-quelle = pd.read_table('D:/Quelle.txt',skiprows=[1])
+quelle = pd.read_table('D:/Quelle.txt', skiprows=[1])
+
 ziel = pd.read_table('D:/Ziel.txt',skiprows=[1])
 
 print(len(quelle))

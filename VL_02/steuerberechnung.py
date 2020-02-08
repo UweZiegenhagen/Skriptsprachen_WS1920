@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 28 14:11:31 2019
-
-@author: Uwe Ziegenhagen
+Rechnet für einen Bruttozinsbetrag KESt, Soli und den Netto-Betrag aus
 """
 
 def berechne_steuern(bruttozinsertrag):

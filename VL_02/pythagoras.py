@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 28 14:31:30 2019
-
-@author: Uwe
+Ermittlung der Hypothenuse eines rechtwinkligen Dreiecks
 """
 
 def pythagoras(kathete1, kathete2):

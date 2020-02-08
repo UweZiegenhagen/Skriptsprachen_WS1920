@@ -19,5 +19,5 @@ def berechne_bmi_interaktiv():
     print('Hallo', name)
     print('Dein BMI beträgt:', gewicht/groesse**2)
     
-#berechne_bmi()
+berechne_bmi()
 

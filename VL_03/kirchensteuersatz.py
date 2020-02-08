@@ -1,3 +1,4 @@
+# Kirchensteuersatz errechnen
 
 def berechne_KSt_satz(bundesland):
     if bundesland == "Bayern" or bundesland == "Baden-Württemberg":

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# einfache Verschlüsselung, nicht für den Einsatz empfohlen
 lipsum = """
 Hallo. Ich bin ein kleiner Blindtext. Und zwar schon so lange ich denken kann. 
 Es war nicht leicht zu verstehen, was es bedeutet, ein blinder Text zu sein: 

@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 28 14:42:18 2019
-
-@author: Uwe
+Einfache Zinsrechnung
 """
 
 def endkapital(startkapital, zins, jahre):
     return startkapital * (1+zins)**jahre
 
+
+# Vergleich von zwei Zinssätzen
 def vergleiche(startkapital, zins1, zins2, jahre):
     k1 = endkapital(startkapital,zins1, jahre)
     k2 = endkapital(startkapital,zins2, jahre)

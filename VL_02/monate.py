@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 28 15:18:07 2019
-
-@author: Uwe
+Bestimmt die Anzahl der Tage ausgehend vom Monat
 """
 
+# Einfacher Ansatz
 def monate1(zahl):
     if zahl == 1:
         return 31
@@ -33,6 +32,7 @@ def monate1(zahl):
 
 print(monate1(12))
 
+#besser!
 def monate2(zahl, jahr=2019):
     if zahl in [1,3,5,7,8,10,12]:
         print(31)
@@ -62,6 +62,7 @@ monate2(2, 2006)
 monate2(2, 1700)
 monate2(2) # 2019
 
+# für Zahlen und Namen
 def monate3(wert):
     if isinstance(wert,int):
         if wert in [1,3,5,7,8,10,12]:

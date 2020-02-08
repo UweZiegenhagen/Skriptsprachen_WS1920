@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 12 09:24:21 2019
+# Zahl zu Buchstabe und umgekehrt
 
-@author: Uwe
-"""
 
 def gib_die_zahl_aus(text):
     for i in text:

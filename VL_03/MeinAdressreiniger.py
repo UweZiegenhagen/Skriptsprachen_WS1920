@@ -1,3 +1,4 @@
+# Zum Splitten von Adressen der Form "Erlenweg 4", oder "5, Oxbridge" etc
 # Lade die Datei schreibgeschützt als Textdatei
 with open('Datensatz.txt', 'rt', encoding='utf-8') as eingabedatei:
     for zeile in eingabedatei:

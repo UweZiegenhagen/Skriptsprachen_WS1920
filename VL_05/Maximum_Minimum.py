@@ -8,7 +8,11 @@ def finde_maximum(eine_liste):
 
 print(finde_maximum([3, 7, 15, 42, 2, 1, 4, 6]))
 
+
 def finde_maximum2(eine_liste):
+    """
+     Selbst ermitteln
+    """
     maximum = eine_liste[0]
     for zahl in eine_liste[1:]:
         if maximum < zahl:

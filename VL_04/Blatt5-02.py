@@ -1,3 +1,5 @@
+# einfache Funktionen zum Zentrieren eines Strings
+
 def zentriere_string(text):
     print(text.center(60, '.'))
     

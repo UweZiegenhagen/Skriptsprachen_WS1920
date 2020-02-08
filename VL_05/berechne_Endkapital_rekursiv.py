@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov  4 19:44:58 2019
-
-@author: Uwe Ziegenhagen
+Rekursive Ermittlung von Endkapital
 """
 
 def berechne_endkapital(s0, i, n):

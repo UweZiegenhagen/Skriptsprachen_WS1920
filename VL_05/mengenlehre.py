@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov  4 20:25:20 2019
-
-@author: Uwe Ziegenhagen
+Mathematische Mengenoperationen
 """
 
 a = {3, 5, 7, 12, 14, 17, 19, 23}

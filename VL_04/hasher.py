@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 14 18:46:21 2019
-
-@author: Uwe
+Passwort 'knacken'
 """
 
 import hashlib

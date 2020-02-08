@@ -1,3 +1,4 @@
+# Prüfe String auf Palindrom
 def pruefe_palindrom(text):
     if text[:].upper() == text[::-1].upper():
         return True

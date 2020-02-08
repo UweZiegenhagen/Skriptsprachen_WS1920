@@ -3,6 +3,8 @@ werte = {}
 jahre = []
 bleiter = []
 
+# "Pivotisierung" von Daten
+
 with open('Verkaufszahlen.tsv') as datei:
     for zeile in datei:
         jahr, bereichsleiter, umsatz = zeile.split('\t')

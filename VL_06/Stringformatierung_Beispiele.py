@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 29 20:04:24 2019
-
-@author: Uwe
+Stringformatierung
 """
 
 

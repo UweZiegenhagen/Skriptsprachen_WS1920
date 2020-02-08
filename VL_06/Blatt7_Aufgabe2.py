@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov 30 10:19:57 2019
-
-@author: Uwe
+Formatierung von Zahlen
 """
 
 artikel = {'Brot': 1.23, 'Mais': 2.20, 'Wurst': 10.78, 'Katzenfutter': 123.99}

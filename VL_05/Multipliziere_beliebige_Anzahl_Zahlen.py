@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Uwe Ziegenhagen, 2019-11-04
+Variable Zahl an Parametern
 
 """
 
